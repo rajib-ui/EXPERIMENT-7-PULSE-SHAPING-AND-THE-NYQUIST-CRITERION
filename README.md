@@ -24,4 +24,4 @@ Google Colab: https://colab.research.google.com/drive/18wdBxSSAFfaGQt-gxPogh1uUn
 
 PPT: https://drive.google.com/file/d/1J9mhfqrnLNy8zbs1DEwVpN9bkaDHKROq/view?usp=sharing
 
-
+video: https://youtu.be/TQU10yKlAyE?si=emCt4plFiBIlvaCz
